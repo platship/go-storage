@@ -6,9 +6,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/fasthey/go-storage"
+	"github.com/rehok/go-storage"
 
-	"github.com/fasthey/go-utils/osx"
+	"github.com/rehok/go-utils/osx"
 )
 
 type Local struct {

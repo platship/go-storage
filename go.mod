@@ -1,10 +1,10 @@
-module github.com/fasthey/go-storage
+module github.com/rehok/go-storage
 
 go 1.20
 
 require (
 	github.com/aliyun/aliyun-oss-go-sdk v3.0.2+incompatible
-	github.com/fasthey/go-utils v0.0.9
+	github.com/rehok/go-utils v0.1.1
 )
 
 require (

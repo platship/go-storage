@@ -1,7 +1,7 @@
 package drivers
 
 import (
-	"github.com/fasthey/go-storage"
+	"github.com/rehok/go-storage"
 )
 
 type Temp struct {

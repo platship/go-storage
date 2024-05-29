@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/fasthey/go-storage"
+	"github.com/rehok/go-storage"
 
 	"github.com/aliyun/aliyun-oss-go-sdk/oss"
 )
