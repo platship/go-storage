@@ -4,6 +4,7 @@ go 1.20
 
 require (
 	github.com/aliyun/aliyun-oss-go-sdk v3.0.2+incompatible
+	github.com/goccy/go-json v0.10.3
 	github.com/rehok/go-utils v0.1.1
 )
 

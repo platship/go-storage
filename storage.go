@@ -2,9 +2,10 @@ package storage
 
 import (
 	"bytes"
-	"encoding/json"
 	"io"
 	"strings"
+
+	"github.com/goccy/go-json"
 )
 
 type Storage interface {
