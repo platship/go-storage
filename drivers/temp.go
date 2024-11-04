@@ -1,7 +1,7 @@
 package drivers
 
 import (
-	"github.com/rehok/go-storage"
+	"github.com/platship/go-storage"
 )
 
 type Temp struct {

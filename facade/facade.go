@@ -3,8 +3,8 @@ package facade
 import (
 	"errors"
 
-	"github.com/rehok/go-storage"
-	"github.com/rehok/go-storage/drivers"
+	"github.com/platship/go-storage"
+	"github.com/platship/go-storage/drivers"
 )
 
 type Storage struct {

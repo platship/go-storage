@@ -11,8 +11,8 @@ github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfn
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0 h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
-github.com/rehok/go-utils v0.1.1 h1:NDleZ9LJRN/VdPBTIDVRgj3mhn8JlcBhZv1kEKV11EY=
-github.com/rehok/go-utils v0.1.1/go.mod h1:2R35oq1xLhwxropKzwCEZJ6/i1vVjGIH5oI/FqxF45I=
+github.com/platship/go-utils v0.1.1 h1:NDleZ9LJRN/VdPBTIDVRgj3mhn8JlcBhZv1kEKV11EY=
+github.com/platship/go-utils v0.1.1/go.mod h1:2R35oq1xLhwxropKzwCEZJ6/i1vVjGIH5oI/FqxF45I=
 golang.org/x/sys v0.19.0 h1:q5f1RH2jigJ1MoAWp2KTp3gm5zAGFUTarQZ5U386+4o=
 golang.org/x/sys v0.19.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
 golang.org/x/text v0.14.0 h1:ScX5w1eTa3QqT8oi6+ziP7dTV1S2+ALU0bI+0zXKWiQ=
